@@ -1,7 +1,7 @@
 ---
 layout: post
 category: math
-tagline: "排列和组合 permutation and ombination"
+tagline: "排列和组合 permutation and combination"
 tags: [permutation, combination]
 ---
 {% include JB/setup %}

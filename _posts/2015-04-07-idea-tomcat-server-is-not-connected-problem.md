@@ -1,6 +1,6 @@
 ---
 layout: post
-category:IDEA 
+category: IDEA 
 tagline: "idea tomcat"
 tags: [idea, tomcat]
 ---

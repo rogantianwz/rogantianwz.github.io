@@ -27,6 +27,10 @@ author :
 #
 production_url : http://rogantianwz.github.io
 
+#markdown configuration
+#see: http://www.dpetzel.info/tips/jekyll/2015/01/04/jekyll-with-fenced-code-blocks
+markdown: redcarpet
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :

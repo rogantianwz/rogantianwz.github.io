@@ -8,7 +8,7 @@ tags: [pattern]
 
 直接上代码吧，还有很多优化的地方，目前先实现功能，能过滤大部分常用的emoji表情符号
 
-```java
+```
 public class FilterEmojiMethod {
 
 	private static String regex = "[\ud83c\udc00-\ud83c\udfff]|[\ud83d\udc00-\ud83d\udfff]|[\u25b6-\u25c0]" 
@@ -27,6 +27,5 @@ public class FilterEmojiMethod {
 	public static String filter(String inputString) {
 		return pattern.matcher(inputString).replaceAll("");
 	}
-
 }
 ```

@@ -29,6 +29,7 @@ production_url : http://rogantianwz.github.io
 
 #markdown configuration
 #see: http://www.dpetzel.info/tips/jekyll/2015/01/04/jekyll-with-fenced-code-blocks
+#if have time, try this: https://demisx.github.io/jekyll/2014/01/13/improve-code-highlighting-in-jekyll.html
 markdown: redcarpet
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
